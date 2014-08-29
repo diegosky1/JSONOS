@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB47C1ED-1B4B-4870-BFDF-1C143A366E76</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JSONOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>97D74122-3908-4294-AB8C-87C4D9A5153E</key>
+		<string>https://github.com/diegosky1/micondominio.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JSONOS/JSONOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>97D74122-3908-4294-AB8C-87C4D9A5153E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/diegosky1/micondominio.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97D74122-3908-4294-AB8C-87C4D9A5153E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97D74122-3908-4294-AB8C-87C4D9A5153E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>micondominio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
